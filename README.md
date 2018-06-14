@@ -10,7 +10,8 @@ The PACKAGE NAME package has been tested under [ROS] Indigo and Ubuntu 14.04. Th
 
 [![Build Status](http://rsl-ci.ethz.ch/buildStatus/icon?job=ros_best_practices)](http://rsl-ci.ethz.ch/job/ros_best_practices/)
 
-**place youtube video/ or an image here / or a gif video **
+**place youtube video/ or an image here / or a gif video**
+
 ![Example image](doc/example.jpg)
 
 ### License
