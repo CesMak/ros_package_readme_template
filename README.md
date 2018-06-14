@@ -18,11 +18,11 @@ The PACKAGE NAME package has been tested under [ROS] Indigo and Ubuntu 14.04. Th
 
 The source code is released under a [BSD 3-Clause license](ros_package_template/LICENSE).
 
-**Author(s): Péter Fankhauser
+**Author(s): Péter Fankhauser**
 
-Maintainer: Péter Fankhauser, pfankhauser@ethz.ch
+**Maintainer: Péter Fankhauser, pfankhauser@ethz.ch**
 
-Affiliation: Autonomous Systems Lab, ETH Zurich**
+**Affiliation: Autonomous Systems Lab, ETH Zurich**
 
 ### Publications
 
